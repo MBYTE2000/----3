@@ -1,0 +1,15 @@
+.title {}
+
+body {
+    color: #535353;
+}
+
+.content {
+    padding: 20px;
+}
+
+/* div.news {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+} */
